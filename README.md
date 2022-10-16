@@ -10,7 +10,6 @@
 - ⚡ Fun fact **I am not funny**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://https://st3.depositphotos.com/3382541/13326/v/600/depositphotos_133260890-stock-illustration-programmer-sitting-on-big-laptop.jpg">
 
 <p align="left">
 <a href="https://twitter.com/kockeey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kockeey" height="30" width="40" /></a>
